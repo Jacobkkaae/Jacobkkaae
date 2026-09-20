@@ -18,7 +18,7 @@ Bachelor project focused on real-time video inpainting on an **NVIDIA Jetson Ori
 
 Semester project on the bachelor developing a machine learning pipeline for imputing missing travel-time data in road networks. Combines **Graph Neural Networks (GAT and GraphSAGE)** to model spatial relationships with recurrent neural networks for temporal patterns. Includes model training, hyperparameter experiments, and evaluation of different approaches.
 
-*Developed as part of a project at Aalborg University.*
+*Developed as part of a multi-project at Aalborg University.*
 
 ### [Consilio — P4 Software Project](https://github.com/3xTremee/ConsilioFinal_P4)
 
